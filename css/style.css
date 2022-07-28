@@ -5,8 +5,6 @@ body {
 }
 
 .carousel-image {
-  height: 100vh;
-  object-fit: cover;
   filter: brightness(0.5);
 }
 
@@ -14,6 +12,11 @@ body {
   object-fit: cover;
 }
 
-.fs-sm {
-  font-size: 14px;
+.negative-m-5 {
+  margin-top: -3rem;
+}
+
+.social-icon {
+  height: 32px;
+  width: 32px;
 }
