@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.carousel-image {
+  height: 100vh;
+  object-fit: cover;
+  filter: brightness(0.5);
+}
+
+.object-cover {
+  object-fit: cover;
+}
+
+.fs-sm {
+  font-size: 14px;
+}
